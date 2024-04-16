@@ -1,6 +1,5 @@
-The to-do-list-app follows the features:
-
-1.The user can add a new item to a list of items.
-2.The user can cross out an item from the list of items.
-3.The user can delete an item from the list of items.
-4.The user can change the order of items in the list of items.
+ A practical JavaScript-based to-do list app with a clean interface. Users can
+                                effortlessly
+                                add, complete, and track tasks. Double-clicking a task applies a strike-through,
+                                offering a
+                                visual representation of progress.
