@@ -1,6 +1,8 @@
+<<<<<<< HEAD
+
 # To-Do List App
 
-![Montreal Image](../images/1.png)
+![alt text](1.png)
 
 The to-do-list-app follows the features:
 
