@@ -25,7 +25,7 @@ A simple and easy-to-use app for managing your tasks and to-do lists.
 
 ## Live Demo
 
-[Click here to see the Live Site]:https://githubtodolist.netlify.app/
+[Click here to see the Live Site](https://githubtodolist.netlify.app/)
 
 ## How To Use
 
